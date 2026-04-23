@@ -1,0 +1,1 @@
+console.log("fn for all end points")
