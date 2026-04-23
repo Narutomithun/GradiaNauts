@@ -1,1 +1,4 @@
 1. pushing code from kirran to mithun
+
+in kirran branch
+    git merge origin main   ->   code from main is in kirran
